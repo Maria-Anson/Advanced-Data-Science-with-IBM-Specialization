@@ -129,14 +129,18 @@
 > 
 > Correct
 > 
-
-      Data point (2.5,2.5,2.5) lies within a cluster 
+>
+>Data point (2.5,2.5,2.5) lies within a cluster 
 > 
 >  There is one cluster centroid at (1,2,2) 
 > 
 
       Data point (1.5,1.5,1.5) lies within a cluster 
+> Check
 > 
+> Correct
+> 
+> Correct 
 
       There is one cluster centroid at (2,2,2) 
 > 
